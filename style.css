@@ -1,11 +1,32 @@
-
-body {
+* {
+    margin: 0;
+    padding: 0;
+ }
+ 
+ 
+ body {
     background-color: brown;
-}
-
-h1 {
+ }
+ 
+ 
+ #banner {
+    width: 100%;
+ }
+ 
+ 
+ h1 {
     font-size: 50px;
-     color: rgb(218, 165, 32);
-     text-align: center;
-     text-transform: uppercase;
-}
+    color: goldenrod
+    text-align: center;
+    text-transform: uppercase;
+ }
+ 
+ 
+ .textos {
+    width: 80%;
+    align-content: center;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+ 
